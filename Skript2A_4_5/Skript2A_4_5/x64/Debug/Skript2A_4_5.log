@@ -1,0 +1,6 @@
+﻿  4_5_Tasker.cpp
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.cpp(17,31): warning C4838: Konvertierung von "int" zu "double" erfordert eine einschränkende Konvertierung
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.cpp(17,35): warning C4838: Konvertierung von "int" zu "double" erfordert eine einschränkende Konvertierung
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.cpp(17,39): warning C4838: Konvertierung von "int" zu "double" erfordert eine einschränkende Konvertierung
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.cpp(26,30): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  Skript2A_4_5.vcxproj -> C:\Users\BNnik\source\repos\Skript2A_4_5\x64\Debug\Skript2A_4_5.exe

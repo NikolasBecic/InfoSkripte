@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLine", "GraphLine\GraphLine.csproj", "{9AEC6DA6-DB9D-4CAA-BC1B-7A75B9DBF670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEC6DA6-DB9D-4CAA-BC1B-7A75B9DBF670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEC6DA6-DB9D-4CAA-BC1B-7A75B9DBF670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEC6DA6-DB9D-4CAA-BC1B-7A75B9DBF670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEC6DA6-DB9D-4CAA-BC1B-7A75B9DBF670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD79A05-A6C6-4673-935B-E30B98F5F4C0}
+	EndGlobalSection
+EndGlobal

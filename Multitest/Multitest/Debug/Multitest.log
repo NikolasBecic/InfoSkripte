@@ -1,0 +1,16 @@
+﻿  5_5.cpp
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_5.cpp(4): fatal error C1075: {: kein übereinstimmendes Token gefunden.
+  5_6.cpp
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(7,6): warning C4101: "Euro_20": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(9,6): warning C4101: "Euro_05": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(14,6): warning C4101: "Cent_10": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(6,6): warning C4101: "Euro_50": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(17,6): warning C4101: "Cent_01": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(13,6): warning C4101: "Cent_20": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(10,6): warning C4101: "Euro_02": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(11,6): warning C4101: "Euro_01": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(15,6): warning C4101: "Cent_05": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(8,6): warning C4101: "Euro_10": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(16,6): warning C4101: "Cent_02": Unreferenzierte lokale Variable
+C:\Users\BNnik\source\repos\Multitest\Multitest\5_6.cpp(12,6): warning C4101: "Cent_50": Unreferenzierte lokale Variable
+  Code wird generiert...

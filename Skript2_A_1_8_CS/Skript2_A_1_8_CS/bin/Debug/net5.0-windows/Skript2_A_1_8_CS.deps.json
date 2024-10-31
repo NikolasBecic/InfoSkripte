@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Skript2_A_1_8_CS/1.0.0": {
+        "runtime": {
+          "Skript2_A_1_8_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skript2_A_1_8_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

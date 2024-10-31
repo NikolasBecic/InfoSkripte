@@ -1,0 +1,4 @@
+﻿  Skript2_A_3_4.cpp
+C:\Users\BNnik\source\repos\Skript2_A_3_4\Skript2_A_3_4\Skript2_A_3_4.cpp(57,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\BNnik\source\repos\Skript2_A_3_4\Skript2_A_3_4\Skript2_A_3_4.cpp(283,37): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Skript2_A_3_4.vcxproj -> C:\Users\BNnik\source\repos\Skript2_A_3_4\Debug\Skript2_A_3_4.exe

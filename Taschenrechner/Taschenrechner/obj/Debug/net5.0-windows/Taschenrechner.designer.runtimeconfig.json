@@ -1,0 +1,16 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\BNnik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BNnik\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

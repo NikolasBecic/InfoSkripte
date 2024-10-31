@@ -1,0 +1,9 @@
+﻿  Skript2A_4_5.cpp
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.h(4,21): error C2039: "vector" ist kein Member von "std".
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\predefined C++ types (compiler internal)(340): message : Siehe Deklaration von "std"
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.h(4,6): error C2182: "Sortieren": Unzulässige Verwendung des Typs "void"
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.h(4,27): error C2065: "vector": nichtdeklarierter Bezeichner
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\4_5_Tasker.h(4,28): error C2062: "int"-Typ unerwartet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+C:\Users\BNnik\source\repos\Skript2A_4_5\Skript2A_4_5\Skript2A_4_5.cpp(44,9): error C2064: Ausdruck ergibt keine Funktion, die 1 Argumente übernimmt
